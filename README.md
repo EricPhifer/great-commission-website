@@ -1,6 +1,4 @@
-# great-commission-website
-
-Project Title
+The Great Commission Landing Page and Website
 
 A website for understanding faith and the existence of God.
 
